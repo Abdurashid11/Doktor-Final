@@ -1,0 +1,223 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+    list-style: none;
+}
+.C{
+    width: 41px;
+    height: 41px;  
+}
+.di{
+    margin: 46px 131px 130px;
+    display: flex;
+    align-items: center;
+    /* border: 1px solid red; */
+}
+.di ul{
+    width: 535px;
+    height: 20.08px;
+    display: flex;
+    align-items: center;
+    gap: 35px ;
+}
+.ul{
+    display: flex;
+    justify-content: end;
+    padding: 0px 0px 0px 600px;
+}
+.dad{
+   font-family: "Mulish", sans-serif;
+   margin: 0px 0px 0px 150px;
+}
+.pa{
+    font-family: "Mulish", sans-serif;
+    margin: 0px 0px 0px 150px;
+    color: #7D7987;
+}
+.h3{
+    width: 200px;
+    height: 50px;
+    border: 2px solid #458FF6;
+    border-radius: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #458FF6;
+    margin: 0px 0px 0px 150px;
+}
+.od{
+    display: flex;
+    justify-content: space-between;
+}
+.od h3:hover{
+    background-color: #458FF6;
+    border: 2px solid #458FF6;
+    color: white;
+}    
+.img1{
+   margin: -40px 0px 0px 700px;
+}
+.doda{
+    font-family: "Mulish", sans-serif;
+    margin: -350px 0px 0px 0px ;
+}
+.fart{
+    margin: 300px 0px 0px 0px ;
+    display: flex;
+    justify-content: center;
+}
+.klas{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #7D7987;
+}
+.bab{
+    display: flex;
+    justify-content: space-evenly;
+}
+.big{
+    font-family: "Mulish", sans-serif;
+    box-sizing: border-box;
+    background-color: #E7E7E7;
+    width: 380px;
+    height: 290px;
+    border: 5px solid #E7E7E7;
+    border-radius: 20px;
+    padding: 20px;
+    color: black;
+    flex-wrap: wrap;
+}
+.bab .big:hover{
+    background-color: #458FF6;
+    border: 2px solid #458FF6;
+    color: white;
+}
+.cac{
+    display: flex;
+    justify-content: space-evenly;
+}
+.h5{
+    width: 200px;
+    height: 56.74px;
+    display: flex;
+    justify-content: center;
+    margin: 32.23px 484px 0px 570px;
+    border: 2px solid #458FF6;
+    align-items: center;
+    border-radius: 55px;
+    color: #458FF6;
+}
+.final{
+    margin: 32.23px 484px 0px 610px;
+}.cac .big:hover{
+    background-color: #458FF6;
+    border: 2px solid #458FF6;
+    color: white;
+}
+.h4 .h5:hover{
+    background-color: #458FF6;
+    border: 2px solid #458FF6;
+    color: white;
+}
+.di2{
+    font-family: "Mulish", sans-serif;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.di2 .da{
+    width: 200px;
+    height: 56.74px;
+    display: flex;
+    justify-content: center;
+    border: 2px solid #458FF6;
+    align-items: center;
+    border-radius: 55px;
+    color: #458FF6;
+}
+.di2 .da:hover{
+    background-color: #458FF6;
+    border: 2px solid #458FF6;
+    color: white;
+}
+h2{
+    font-family: "Mulish", sans-serif;
+    display: flex;
+    justify-content: center;
+}
+.fil{
+    box-sizing: border-box;
+    font-family: "Mulish", sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+}
+.fil p{
+    color: #8b8b8b;
+    padding: 20px;
+}
+.fil h4{
+    padding: 0px 0px 0px 20px;
+} 
+.MrAbdulaziz{
+    font-family: "Mulish", sans-serif;
+    color: #4089ED;
+    display: flex;
+}
+.fil .MrAbdulaziz::after{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.p1{
+    margin: 0px 0px 0px 70px;
+}
+.p2{
+    margin: 0px 0px 0px 330px;
+}
+.p3{
+    margin: 0px 0px 0px 330px;
+}
+.p1:hover::after{
+    content: 'BMW';
+    color: red;
+}
+.p2:hover::after{
+    content: 'TAYOTA';
+    color: yellowgreen;
+}
+.p3:hover::after{
+    content: 'MERS';
+    color: green;
+}
+.dad2{
+    display: flex;
+    justify-content: center;
+}
+.final2{
+    width: 200px;
+    height: 50px;
+    border: 2px solid #458FF6;
+    border-radius: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #458FF6;
+}
+.dad2 .final2:hover{
+    background-color: #458FF6;
+    border: 2px solid #458FF6;
+    color: white;
+}
+.FINAL01{
+    font-family: "Mulish", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #4089ED;
+    color: white;
+    height: 300px;
+}
